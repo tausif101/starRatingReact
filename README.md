@@ -34,5 +34,5 @@ StarRatingReact is a demonstration project showcasing a star rating functionalit
    ```bash
    npm run dev
 
-##Purpose
+## Purpose
 The purpose of this project is to provide a demonstration of a star rating functionality for websites, allowing users to rate items by selecting stars out of a total of 5.
