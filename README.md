@@ -22,7 +22,7 @@ StarRatingReact is a demonstration project showcasing a star rating functionalit
 2. Navigate to the project directory:
 
    ```bash
-   cd starRatingReact
+   cd starRatingReact-main
 
 3. Install dependencies:
 
